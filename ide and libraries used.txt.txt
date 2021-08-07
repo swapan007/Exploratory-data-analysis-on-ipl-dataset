@@ -1,0 +1,11 @@
+here i used:
+'jupyter notebook' which is a very good ide for doing analysis and for python programming language.
+
+_______language used:_______
+***python programming language***
+
+_______libraries used:________
+->pandas
+->numpy
+->matplotlib
+->seaborn
